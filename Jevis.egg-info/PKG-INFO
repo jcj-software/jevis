@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Jevis
+Version: 0.0.1
+Summary: A powerful package
+Home-page: https://github.com/pypa/sampleproject
+Author: Jiang ChengJun
+Author-email: jcj1947725596@hotmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+
+# Jevis    
+This package is very powerful.    
+This has pointer, switch, etc.    
+This package comply with MIT License.    
+The author of this package is Jiang ChengJun.    
+My email is jcj1947725596@hotmail.com.    
