@@ -11,7 +11,7 @@ My email is jcj1947725596@hotmail.com.
 
 setuptools.setup(
     name="Jevis",
-    version="0.0.1",
+    version="0.1.2",
     author="Jiang ChengJun",
     author_email="jcj1947725596@hotmail.com",
     description="A powerful package",

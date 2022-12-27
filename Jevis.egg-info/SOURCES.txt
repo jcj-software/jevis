@@ -1,4 +1,5 @@
 setup.py
+Jevis/__init__.py
 Jevis.egg-info/LICENSE
 Jevis.egg-info/PKG-INFO
 Jevis.egg-info/SOURCES.txt
