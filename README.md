@@ -1,5 +1,7 @@
 # Jevis——一个第三方Python库
 
+[![Upload Python Package](https://github.com/lemonorangeapple/jevis/actions/workflows/python-publish.yml/badge.svg)](https://github.com/lemonorangeapple/jevis/actions/workflows/python-publish.yml)
+
 下载方式：
 ```python
 pip install Jevis
