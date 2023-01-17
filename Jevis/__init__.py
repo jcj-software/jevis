@@ -9,7 +9,7 @@ class switch:
             self.flag = True
 
     def default(self, func):
-        if (self.flag):
+        if (self.flag == False):
             func()
 
 class pointer:
