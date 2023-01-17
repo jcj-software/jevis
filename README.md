@@ -1,10 +1,5 @@
----
-layout: post
-title: 'Jevis——一个第三方Python库'
-date: 2023-01-10
-author: Jiang Chengjun
-tags: 编程
----
+# Jevis——一个第三方Python库
+
 下载方式：
 ```python
 pip install Jevis
