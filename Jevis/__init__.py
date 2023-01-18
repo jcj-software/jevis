@@ -19,10 +19,10 @@ class pointer:
     def get(self):
         return self.lst[0]
 
-    def change(self, value):
+    def set(self, value):
         self.lst[0] = value
 
     def swap(self, pointer2):
         temp = self.get()
-        self.change(pointer2.get())
-        pointer2.change(temp)
+        self.set(pointer2.get())
+        pointer2.set(temp)
